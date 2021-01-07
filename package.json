@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "bower": "1.5.2",
-    "reveal-md": "0.0.20"
+    "reveal-md": "0.3.0"
   }
 }
